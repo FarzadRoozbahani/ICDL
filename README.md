@@ -1,8 +1,8 @@
 - International Computer Driving License (ICDL)
 
     - Standard Skills & Specialized terms
-        - Computers Hardware
-            - CPU (central processing unit)
+        - **Computers Hardware**
+            - **CPU** (central processing unit)
                 - Control Unit : CU (CPU Manager)
                 - Protection Test Unit : PTU (QA)
                 - Arithmetic and Logic Unit : ALU (Calculate)
@@ -13,7 +13,7 @@
                 - Decode Unit : DU (Decode)
                 - Registers Cache Unit : RCU (Memory)
 
-            - GPU (graphics processing unit)
+            - **GPU** (graphics processing unit)
                 - Video RAM : VRAM (Video Memory)
                 - Tensor Core : TC (AI Processing)
                 - CUDA Core : CC (Parallel Processing)
@@ -23,14 +23,14 @@
                 - SLI : SLI (Multi-GPU Technology)
 
 
-            - MotherBoard
-            - Ram (Random-access memory)
-            - Storages
+            - **MotherBoard**
+            - **Ram** (Random-access memory)
+            - **Storages**
                 - SSD (solid-state drive)
                 - HDD (hard disk drive)
                 - NVME (nonvolatile memory express)
-            - Power supplies
-            - Cooling
+            - **Power supplies**
+            - **Cooling**
                 - Air Coolers: Like Model: Noctua NH-D15
                 - Liquid Coolers: Like Model: Corsair H100i RGB Platinum
                 - Passive Coolers: Like Model: Arctic Alpine 12 Passive
@@ -39,17 +39,17 @@
                 - Mineral Oil Submersion: Like Model: Puget Systems DIY Aquarium PC Kit
                 - Water Coolers (Open Loop): Like Model: EKWB EK-KIT P360 Performance
 
-            - Network adapters
-            - Inputs
+            - **Network adapters**
+            - **Inputs**
                 - Keyboard
                 - Mouse
                 - Microphone
-            - Outputs
+            - **Outputs**
                 - Speakers
                 - Headphones
                 - Monitors
 
-        - Computers Software
+        - **Computers Software**
             - Os (Operating system)
                 - Windows
                 - linux
@@ -59,40 +59,56 @@
                 - ...
             - Applications
             
-        - Computers Middleware
+        - **Computers Middleware**
 
 
-        - Install Os *Windows
+        - Install Os **Windows**
             - Rufus
-        - Multi Tasking
-        - Theme Settings
-        - TaskBar & Task Manager
-        - This Pc
-        - File & Folder Properties
-        - Hide Folder & Files
-        - Desktop Cleaning (Drive C)
-        - Additional Devices
-        - Network
-        - Date & Times
-        - Language & Packages
-        - Update
-        - Control Panel
-            - App Managers
-            - Device Manager
-            - Fonts
-            - Internet Option
-            - Mouse
-            - Keyboard
-            - Power options
-            - Sound
-            - Firewall
-            - Windows Defender
+            - Hang Up With Windows 
+                - Multi Tasking
+                - Theme Settings
+                - TaskBar & Task Manager
+                - This Pc
+                - File & Folder Properties
+                - Hide Folder & Files
+                - Desktop Cleaning (Drive C)
+                - Additional Devices
+                - Network
+                - Date & Times
+                - Language & Packages
+                - Update
+                - Control Panel
+                    - App Managers
+                    - Device Manager
+                    - Fonts
+                    - Internet Option
+                    - Mouse
+                    - Keyboard
+                    - Power options
+                    - Sound
+                    - Firewall
+                    - Windows Defender
+                - **Windows Terminal**
+                    - dir
+                    - ping google.com
+                    - ipconfig
+                    - whoami
+                    - cls
+                    - Tracert google.com
+                    - Shutdown
+                    - Tasklist
+                    - Taskkill -pid 1234
+                    - Systeminfo
+                    - color a
+                    - curl parrot.live
+
+
 
 
     - Start of Information and Communication Technologies(ICT)
 
 
-    - Internat & Browsers
+    - **Internat & Browsers**
         - What’s internet? What’s Web?
         - Protocols
             - HTTP
@@ -145,6 +161,9 @@
             - Filter out searches with AFTER:, BEFORE: or .. between two numbers / math tutorial after:2020 before:2021
             - Check out related websites using related: / math tutorial related:youtube
             - Use cache: to see Google's cached version of a website / cache:google.com
+        
+        - Mail
+
 
     - PowerPoint
     - Word
@@ -152,4 +171,4 @@
     - Access
 
 
-- *Pro
+- **Pro**
